@@ -1,4 +1,4 @@
-# 🧠 Billing Quiz
+# 🧠 Compute Quiz
 
 **Q1:Which of the following Amazon EC2 pricing models allow customers to use existing server-bound software licenses?**
 

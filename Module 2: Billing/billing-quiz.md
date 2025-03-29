@@ -36,7 +36,7 @@
 **Answer: Data center security**  
 </details>
 
-**Q3:Which AWS tools assist with estimating costs? (Choose three.)??**
+**Q4:Which AWS tools assist with estimating costs? (Choose three.)??**
 
 1. Detailed billing report
 2. Cost allocation tags
@@ -49,7 +49,7 @@
 **Answer: Cost allocation tags, AWS Pricing Calculator and AWS Total Cost of Ownership (TCO) Calculator**  
 </details>
 
-**Q3:Which of the following are advantages of AWS consolidated billing? (Choose two.)??**
+**Q5:Which of the following are advantages of AWS consolidated billing? (Choose two.)??**
 
 1. The ability to receive one bill for multiple accounts
 2. Service limits increasing by default in all accounts
@@ -63,7 +63,7 @@
 </details>
 
 
-**Q3:Which of the following Reserved Instance (RI) pricing models provides the highest average savings compared to On-Demand pricing?**
+**Q6:Which of the following Reserved Instance (RI) pricing models provides the highest average savings compared to On-Demand pricing?**
 
 1. One-year, No Upfront, Standard RI pricing
 2. One-year, All Upfront, Convertible RI pricing
@@ -73,4 +73,17 @@
 <summary>💡 Answer</summary>
 
 **Answer: Three-year, All Upfront, Standard RI pricing**  
+</details>
+
+
+**Q7:Which of the Reserved Instance (RI) pricing models can change the attributes of the RI as long as the exchange results in the creation of RIs of equal or greater value?**
+
+1. Dedicated RIs
+2. Scheduled RIs
+3. Convertible RIs
+4. Standard RIs
+<details>
+<summary>💡 Answer</summary>
+
+**Answer: Convertible RIs**  
 </details>

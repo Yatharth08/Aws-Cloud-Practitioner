@@ -1,4 +1,4 @@
-# 🧠 Billing Quiz
+# 🧠 Storage Quiz
 
 **Q1:Which of the following are characteristics of Amazon S3? (Choose two.)**
 
